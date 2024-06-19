@@ -15,9 +15,7 @@ This project can be extended to other cryptocurrencies as well.
 * Create an initial machine learning model and estimate accuracy
 * Switch to a more powerful model and improve our predictors
 
-## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/bitcoin_price)
 
 File overview:
 
